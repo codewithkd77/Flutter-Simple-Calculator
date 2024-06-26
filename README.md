@@ -1,7 +1,7 @@
 # flutter_calculator
 
 
-A new Flutter project.
+A new Flutterr project.
 
 ## Getting Started
 ![Screenshot_12-6-2024_134919_github com](https://github.com/codewithkd77/Flutter-Simple-Calculator/assets/135022358/0cbe1cc1-b787-49dc-a3d9-d1bab1ca5798)            ![Darkmode](https://github.com/codewithkd77/Flutter-Simple-Calculator/assets/135022358/2f9c6d38-0551-4f8a-8195-938af31a3d5d)
