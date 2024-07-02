@@ -10,7 +10,7 @@ class CalculateController extends GetxController {
   var userOutput = "";
 
   /// Equal Button Pressed Func
-  equalPressed() {
+  equalPressed() {   
     String userInputFC = userInput;
     userInputFC = userInputFC.replaceAll("x", "*");
     Parser p = Parser();
